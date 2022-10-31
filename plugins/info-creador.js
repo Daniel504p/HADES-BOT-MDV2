@@ -4,10 +4,10 @@ var document = doc[Math.floor(Math.random() * doc.length)]
 let text = `
 ╭─────°.♡.°‧─────
 │⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍
-│Wa.me/5212412377467 (BOT)
-│Wa.me/5212411261883 (BOT) 
-│Wa.me/5212411719888 (CREADOR)
-│Wa.me/5212411347465 (CREADOR)
+│Wa.me/50432178573 (BOT)
+│Wa.me/18313082256 (BOT) 
+│Wa.me/50488293090 (CREADOR)
+│Wa.me/15045561944 (CREADOR)
 ╰─────°.♡.°‧─────`.trim()   
 let buttonMessage= {
 'document': { url: `https://github.com/Yovanihades1212/HADES-BOT-MDV2` },
